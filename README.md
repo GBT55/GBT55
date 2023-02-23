@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - 😎 I'm currently looking to work with languages I already know like shellscript and YAML and software like Docker.
 - 📫 To reach me, you can mail me at **barrosoguillermo55@gmail.com** and/or in my LinkedIn **[Guillermo Barroso](https://www.linkedin.com/in/guillermobarroso/)**
 
-### Most used languages:
+---
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GBT55)](https://github.com/anuraghazra/github-readme-stats)
