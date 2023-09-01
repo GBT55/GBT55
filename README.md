@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 -->
 
 - 👋 Hi, I’m @GBT55 (Guillermo Barroso) 
-- 👀 I’m interested in IaaC (Infrastructure as code) mostly applied to clouds like AWS or Azure
-- 🌱 I’m currently learning K8S and Python.
-- 😎 I'm currently looking to work with languages I already know like shellscript and YAML and software like Docker.
-- 📫 To reach me, you can mail me at **barrosoguillermo55@gmail.com** and/or in my LinkedIn **[Guillermo Barroso](https://www.linkedin.com/in/guillermobarroso/)**
+- 👀 I’m interested in IaC
+- 🌱 I’m currently learning the HCP stack and Go.
+- 😎 I'm currently working on DevOps.
+- 📫 To reach me, you can mail me at **barrosoguillermo55@gmail.com** and/or at my LinkedIn **[Guillermo Barroso](https://www.linkedin.com/in/guillermobarroso/)**
 
 ---
 
