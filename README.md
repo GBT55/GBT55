@@ -5,12 +5,11 @@
 Here are some ideas to get you started:
 -->
 
-- 👋 Hi, I’m @GBT55 (Guillermo Barroso) 
-- 👀 I’m interested in IaC
-- 🌱 I’m currently learning the HCP stack and Go.
-- 😎 I'm currently working on DevOps.
+- 👋 Hi, I’m @GBT55 (Guillermo Barroso)
+- 😎 I'm working as a DevOps / Platform Engineer
+- 🌱 Currently working with the Hashicorp Stack
+- 🐹 Also learning Golang!
 - 📫 To reach me, you can mail me at **barrosoguillermo55@gmail.com** and/or at my LinkedIn **[Guillermo Barroso](https://www.linkedin.com/in/guillermobarroso/)**
 
----
 
 
