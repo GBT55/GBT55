@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I’m @GBT55 (Guillermo Barroso)
 - 😎 I'm working as a DevOps / Platform Engineer
-- 🌱 Currently working with the Hashicorp Stack
+- 🌱 Currently working with the Hashicorp Stack at BBVA - Meigas
 - 🐹 Also learning Golang!
-- 📫 To reach me, you can mail me at **barrosoguillermo55@gmail.com** and/or at my LinkedIn **[Guillermo Barroso](https://www.linkedin.com/in/guillermobarroso/)**
+- 📫 To reach me, you can contact me on LinkedIn **[Guillermo Barroso](https://www.linkedin.com/in/guillermobarroso/)** or at my email **barrosoguillermo55@gmail.com**
 
 
 
