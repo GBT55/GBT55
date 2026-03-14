@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 To reach me, you can contact me on LinkedIn **[Guillermo Barroso](https://www.linkedin.com/in/guillermobarroso/)** or at my email **barrosoguillermo55@gmail.com**
 
 
+### Todoist Stats
 
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
