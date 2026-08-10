@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- TODO-IST:START -->
 🏆  **30,157** Karma Points           
 🌸  Completed **0** tasks today           
-🗓  Completed **31** tasks this week           
+🗓  Completed **0** tasks this week           
 ✅  Completed **4,861** tasks so far           
 🔥  Current streak: **0 days** - Start one today!           
 ⏳  Longest streak is **17** days
