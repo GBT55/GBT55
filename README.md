@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  **30,600** Karma Points           
+🏆  **30,602** Karma Points           
 🌸  Completed **0** tasks today           
 🗓  Completed **0** tasks this week           
 ✅  Completed **4,960** tasks so far           
