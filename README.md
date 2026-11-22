@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 ### Todoist Stats
 
 <!-- TODO-IST:START -->
-🏆  **32,601** Karma Points           
-🌸  Completed **1** tasks today           
-🗓  Completed **40** tasks this week           
-✅  Completed **5,435** tasks so far           
-🔥  Current streak: **5 days**           
+🏆  **32,622** Karma Points           
+🌸  Completed **0** tasks today           
+🗓  Completed **45** tasks this week           
+✅  Completed **5,440** tasks so far           
+🔥  Current streak: **6 days**           
 ⏳  Longest streak is **17** days
 <!-- TODO-IST:END -->
